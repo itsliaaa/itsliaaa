@@ -1,4 +1,4 @@
-<div align=center><a href="https://tiktok.com/@starfall_wb"><img src="https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Headline&pause=1000&color=D2D7E8&center=true&vCenter=true&width=435&lines=Hello%2C+welcome+to+my+bio+%F0%9F%91%8B%F0%9F%8F%BB;I%E2%80%99m+just+experimenting+with+my+Starfall+%E2%9C%A8" alt="Typing SVG"/></a></div>
+<div align=center><a href="https://www.npmjs.com/package/@itsliaaa/starcore"><img src="https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Headline&pause=1000&color=D2D7E8&center=true&vCenter=true&width=435&lines=Hello%2C+welcome+to+my+bio+%F0%9F%91%8B%F0%9F%8F%BB;I%E2%80%99m+just+experimenting+with+my+Starcore+%E2%9C%A8" alt="Typing SVG"/></a></div>
 
 ### About Me 🔍
 - ❌ Not a developer
